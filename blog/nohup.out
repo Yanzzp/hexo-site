@@ -1,0 +1,15 @@
+INFO  Validating config
+Inferno is in development mode.
+INFO  =======================================
+ ██╗ ██████╗ █████╗ ██████╗ ██╗   ██╗███████╗
+ ██║██╔════╝██╔══██╗██╔══██╗██║   ██║██╔════╝
+ ██║██║     ███████║██████╔╝██║   ██║███████╗
+ ██║██║     ██╔══██║██╔══██╗██║   ██║╚════██║
+ ██║╚██████╗██║  ██║██║  ██║╚██████╔╝███████║
+ ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+=============================================
+INFO  === Checking package dependencies ===
+INFO  === Checking theme configurations ===
+INFO  === Registering Hexo extensions ===
+INFO  Start processing
+INFO  Hexo is running at http://localhost:4000/ . Press Ctrl+C to stop.
